@@ -90,8 +90,10 @@ I once built an app whose entire purpose is ranking my friends by bathroom trips
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elianf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianf-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <br/>
+  <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=elianf-dev&theme=tokyonight&hide_border=true" />
 </div>
